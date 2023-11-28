@@ -1,5 +1,5 @@
-# college-WEbsite
-# tech Stacks used:
+# College-Website
+Tech Stacks used:
 1)HTML
 2)CSS
 3)JavaScript
